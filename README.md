@@ -1,3 +1,4 @@
+zainab.ahdd@gmail.com 
 <h1 align="center">
   <img src="static/mosint-logo.png" alt="mosint" width="150px">
   <br>
